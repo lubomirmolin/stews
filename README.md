@@ -117,3 +117,11 @@ cargo fmt
 cargo build
 cargo test
 ```
+
+
+## Install with Homebrew
+
+```bash
+brew tap lubomirmolin/stews
+brew install stews
+```
