@@ -1,0 +1,17 @@
+{
+  "hello": {
+    "dsfasdf": "dsadfadsf",
+    "dsfkjklfsjklfadjsdlkfjklasdjlkdsjflksdjfljl": "jdkfjadlkfjsdkljf",
+    "hello": {
+      "newkey": "value",
+      "thetsdf": "adfasa",
+      "truefkjdskfjlk": true
+    },
+    "test": 1,
+    "test2": "jsdklfjaklsdfjsa\\"
+  },
+  "hello hello": "//\\",
+  "hellow": "ets",
+  "name": "Lubo",
+  "role": "developer"
+}

@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stews"
+version = "0.1.0"
+description = "stews: JSON-focused terminal editor (skeleton)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Lubo + Codex" }]
+license = { text = "MIT" }
+
+[project.scripts]
+stews = "stews.main:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
